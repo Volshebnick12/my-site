@@ -1,0 +1,15 @@
+h1 {
+    font: "Times New Roman";
+    font-weight: bolder;
+    font-style: italic;
+    color: #02181d;
+    text-shadow: 1px 1px 2px rgb(174, 222, 235);
+}
+
+body {
+    font: "Times New Roman";
+    font-weight: normal;
+    font-style: normal;
+    color: #0d5664;
+    text-shadow: 1px 1px 2px rgb(174, 222, 235);
+}
